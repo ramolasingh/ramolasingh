@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ramolasingh
 - 👀 I’m interested in Software Enginnering
 - 🌱 I’m currently learning Java development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Android projects
 - 📫 How to reach me ... https://www.linkedin.com/in/ramola-singh/
 
 <!---
